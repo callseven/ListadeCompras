@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #101011;
+}
+.app{
+    position: relative;
+}
+.container {
+    background-color: #a8bfb6;
+    position: absolute;
+    width: 400px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 50vh;
+    transform: translateY(-50%);
+
+}
